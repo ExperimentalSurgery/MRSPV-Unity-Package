@@ -4,8 +4,8 @@ The MRSV-Package is quite hard to build, so we provide a pre-built package.
 
 ## Download
 
-[Download the latest release here](https://github.com/ExperimentalSurgery/MRSPV-Unity-Package/releases/tag/Package).
+[Download the latest release here](https://github.com/ExperimentalSurgery/MRSPV-Unity-Package/releases/tag/Package)
 
 ## Usage:
 
-Please see the guide posted here
+[Please see the guide posted here](https://github.com/microsoft/MixedReality-SpectatorView/issues/464)
